@@ -6,7 +6,7 @@ wn.bgcolor("black")
 s = turtle.Turtle()
 r = 10
 
-for i in range(20):
+for i in range(15):
     s.circle(r*i)
     s.penup()
     s.sety(r*i*-1)
@@ -20,7 +20,7 @@ s.penup()
 s.home()
 s.pendown()
 
-for i in range(20):
+for i in range(15):
     s.circle(r*i)
     s.penup()
     s.setx(r*i)
