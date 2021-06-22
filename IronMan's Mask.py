@@ -48,7 +48,7 @@ part(p3, p3goto)
 
 turtle.hideturtle()
 turtle.penup()
-turtle.pencolor('black')
+turtle.pencolor('#fab104')
 turtle.goto(50, -350)
 turtle.pendown()
 turtle.write('By Pallav', font=("Magenta Rose", 20))
